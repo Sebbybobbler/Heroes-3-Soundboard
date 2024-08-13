@@ -1,5 +1,5 @@
 body {
-    background-image: url("/backgrounds/homm3map.png");
+    background-image: url("public/backgrounds/homm3map.png");
 }
 
 p {
@@ -20,7 +20,7 @@ button {
 }
 
 .titleDiv {
-    background-image: url("backgrounds/homm3box.png");
+    background-image: url("public/backgrounds/homm3box.png");
     border-radius: 5px;
     border: 2px solid gold;
     border-style: outset;
@@ -30,7 +30,7 @@ button {
 }
 
 .musicDiv {
-    background-image: url("backgrounds/homm3box.png");
+    background-image: url("public/backgrounds/homm3box.png");
     border-radius: 5px;
     border: 2px solid gold;
     border-style: outset;
