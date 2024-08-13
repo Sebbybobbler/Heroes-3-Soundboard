@@ -19,7 +19,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("MAINMENU.MP3");
-                        console.log(song);
                     }}
                 >
                     Main Theme
@@ -28,7 +27,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("GRASS.MP3");
-                        console.log(song);
                     }}
                 >
                     Grass Zone
@@ -37,7 +35,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("LAVA.MP3");
-                        console.log(song);
                     }}
                 >
                     Lava Zone
@@ -46,7 +43,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("ROUGH.MP3");
-                        console.log(song);
                     }}
                 >
                     Distant Zone
@@ -55,7 +51,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("SAND.MP3");
-                        console.log(song);
                     }}
                 >
                     Sand Zone
@@ -64,7 +59,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("SNOW.MP3");
-                        console.log(song);
                     }}
                 >
                     Snow Zone
@@ -73,7 +67,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("SWAMP.MP3");
-                        console.log(song);
                     }}
                 >
                     Swamp Zone
@@ -82,7 +75,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("WATER.MP3");
-                        console.log(song);
                     }}
                 >
                     Water Zone
@@ -92,7 +84,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("AITheme0.mp3");
-                        console.log(song);
                     }}
                 >
                     AI Theme 1
@@ -101,7 +92,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("AITHEME1.MP3");
-                        console.log(song);
                     }}
                 >
                     AI Theme 2
@@ -110,7 +100,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("Win Scenario.mp3");
-                        console.log(song);
                     }}
                 >
                     Win Scenario
@@ -124,7 +113,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("COMBAT01.MP3");
-                        console.log(song);
                     }}
                 >
                     Combat 1
@@ -133,7 +121,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("COMBAT02.MP3");
-                        console.log(song);
                     }}
                 >
                     Combat 2
@@ -142,7 +129,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("COMBAT03.MP3");
-                        console.log(song);
                     }}
                 >
                     Combat 3
@@ -151,7 +137,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("COMBAT04.MP3");
-                        console.log(song);
                     }}
                 >
                     Combat 4
@@ -160,7 +145,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("Win Battle.mp3");
-                        console.log(song);
                     }}
                 >
                     Win Battle
@@ -169,7 +153,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("LoseCombat.mp3");
-                        console.log(song);
                     }}
                 >
                     Lose Battle
@@ -183,7 +166,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("CstleTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Castle
@@ -192,7 +174,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("DUNGEON.MP3");
-                        console.log(song);
                     }}
                 >
                     Dungeon
@@ -201,7 +182,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("necroTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Necropolis
@@ -210,7 +190,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("FortressTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Fortress
@@ -219,7 +198,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("InfernoTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Inferno
@@ -228,7 +206,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("necroTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Necropolis
@@ -237,7 +214,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("RAMPART.MP3");
-                        console.log(song);
                     }}
                 >
                     Rampart
@@ -246,7 +222,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("StrongHold.mp3");
-                        console.log(song);
                     }}
                 >
                     Stronghold
@@ -255,7 +230,6 @@ function Home() {
                     onClick={() => {
                         playing.pause();
                         setSong("TowerTown.mp3");
-                        console.log(song);
                     }}
                 >
                     Tower
