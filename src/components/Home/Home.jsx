@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 function Home() {
     let [song, setSong] = useState("");
-    let playing = new Audio(`/themes/${song}`);
+    let playing = new Audio(`public/themes/${song}`);
 
     useEffect(() => {
         console.log(playing);
