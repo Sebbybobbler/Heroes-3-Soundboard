@@ -1,43 +1,44 @@
 body {
-  background-image: url("/backgrounds/homm3map.png");
+    background-image: url("/backgrounds/homm3map.png");
 }
 
 p {
-  color: white;
+    color: white;
 }
 h1 {
-  color: white;
+    color: white;
 }
 
 button {
-  background: linear-gradient(#a8914b, #ecd182);
-  border: 1px solid black;
-  padding: 3%;
-  font-size: larger;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  margin-bottom: 3%;
+    background: linear-gradient(#a8914b, #ecd182);
+    border: 1px solid black;
+    padding: 3%;
+    font-size: larger;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    margin-bottom: 3%;
+    min-width: 127px;
 }
 
 .titleDiv {
-  background-image: url("backgrounds/homm3box.png");
-  border-radius: 5px;
-  border: 2px solid gold;
-  border-style: outset;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    background-image: url("backgrounds/homm3box.png");
+    border-radius: 5px;
+    border: 2px solid gold;
+    border-style: outset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .musicDiv {
-  background-image: url("backgrounds/homm3box.png");
-  border-radius: 5px;
-  border: 2px solid gold;
-  border-style: outset;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 5%;
-  margin: 5%;
-  gap: 4%;
-  text-wrap: wrap;
+    background-image: url("backgrounds/homm3box.png");
+    border-radius: 5px;
+    border: 2px solid gold;
+    border-style: outset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5%;
+    margin: 5%;
+    gap: 4%;
+    text-wrap: wrap;
 }
