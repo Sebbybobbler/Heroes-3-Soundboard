@@ -17,6 +17,7 @@ button {
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     margin-bottom: 3%;
     min-width: 127px;
+    color: black;
 }
 
 .titleDiv {
